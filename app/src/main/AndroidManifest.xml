@@ -21,7 +21,9 @@
             android:exported="false" />
         <activity
             android:name=".MenuActivity"
-            android:exported="true"/>
+            android:exported="true" />
+        <activity android:name=".ForexMainActivity"
+            android:label="Forex"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">
